@@ -1,0 +1,6 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\OldBook.Data\bin\Debug\netstandard2.0\OldBook.Data.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\OldBook.Data\bin\Debug\netstandard2.0\OldBook.Data.dll
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\OldBook.Data\obj\Debug\netstandard2.0\OldBook.Data.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\OldBook.Data\obj\Debug\netstandard2.0\OldBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\OldBook.Data\obj\Debug\netstandard2.0\OldBook.Data.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\OldBook.Data\obj\Debug\netstandard2.0\OldBook.Data.AssemblyInfo.cs

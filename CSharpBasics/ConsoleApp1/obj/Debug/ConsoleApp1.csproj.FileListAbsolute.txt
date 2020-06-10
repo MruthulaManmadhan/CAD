@@ -1,0 +1,6 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

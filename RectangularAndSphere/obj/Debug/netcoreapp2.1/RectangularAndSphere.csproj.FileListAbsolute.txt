@@ -1,0 +1,12 @@
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\bin\Debug\netcoreapp2.1\RectangularAndSphere.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\bin\Debug\netcoreapp2.1\RectangularAndSphere.dll
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\bin\Debug\netcoreapp2.1\RectangularAndSphere.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\bin\Debug\netcoreapp2.1\ShapesAndCircle.dll
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\bin\Debug\netcoreapp2.1\ShapesAndCircle.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\obj\Debug\netcoreapp2.1\RectangularAndSphere.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\obj\Debug\netcoreapp2.1\RectangularAndSphere.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\obj\Debug\netcoreapp2.1\RectangularAndSphere.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\obj\Debug\netcoreapp2.1\RectangularAndSphere.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\obj\Debug\netcoreapp2.1\RectangularAndSphere.csproj.CopyComplete
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\obj\Debug\netcoreapp2.1\RectangularAndSphere.dll
+C:\Users\Mruthula.Manmadhan\source\repos\RectangularAndSphere\obj\Debug\netcoreapp2.1\RectangularAndSphere.pdb

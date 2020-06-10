@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\bin\Debug\netcoreapp2.1\ListOfObj.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\bin\Debug\netcoreapp2.1\ListOfObj.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\bin\Debug\netcoreapp2.1\ListOfObj.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\bin\Debug\netcoreapp2.1\ListOfObj.dll
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\bin\Debug\netcoreapp2.1\ListOfObj.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\obj\Debug\netcoreapp2.1\ListOfObj.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\obj\Debug\netcoreapp2.1\ListOfObj.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\obj\Debug\netcoreapp2.1\ListOfObj.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\obj\Debug\netcoreapp2.1\ListOfObj.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\obj\Debug\netcoreapp2.1\ListOfObj.dll
+C:\Users\Mruthula.Manmadhan\source\repos\ListOfObj\ListOfObj\obj\Debug\netcoreapp2.1\ListOfObj.pdb

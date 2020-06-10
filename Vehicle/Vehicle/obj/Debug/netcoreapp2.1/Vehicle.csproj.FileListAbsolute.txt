@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\obj\Debug\netcoreapp2.1\Vehicle.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\obj\Debug\netcoreapp2.1\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\obj\Debug\netcoreapp2.1\Vehicle.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\obj\Debug\netcoreapp2.1\Vehicle.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\bin\Debug\netcoreapp2.1\Vehicle.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\bin\Debug\netcoreapp2.1\Vehicle.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\bin\Debug\netcoreapp2.1\Vehicle.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\bin\Debug\netcoreapp2.1\Vehicle.dll
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\bin\Debug\netcoreapp2.1\Vehicle.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\obj\Debug\netcoreapp2.1\Vehicle.dll
+C:\Users\Mruthula.Manmadhan\source\repos\Vehicle\Vehicle\obj\Debug\netcoreapp2.1\Vehicle.pdb

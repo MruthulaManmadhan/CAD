@@ -1,0 +1,6 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Stars\bin\Debug\Stars.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Stars\bin\Debug\Stars.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Stars\bin\Debug\Stars.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Stars\obj\Debug\Stars.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Stars\obj\Debug\Stars.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Stars\obj\Debug\Stars.csprojAssemblyReference.cache

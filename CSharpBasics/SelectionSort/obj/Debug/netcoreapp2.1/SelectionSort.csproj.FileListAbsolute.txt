@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\bin\Debug\netcoreapp2.1\SelectionSort.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SelectionSort\obj\Debug\netcoreapp2.1\SelectionSort.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\SingleChar\bin\Debug\SingleChar.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\SingleChar\bin\Debug\SingleChar.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\SingleChar\bin\Debug\SingleChar.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\SingleChar\obj\Debug\SingleChar.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\SingleChar\obj\Debug\SingleChar.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\SingleChar\obj\Debug\SingleChar.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\SingleChar\obj\Debug\SingleChar.pdb

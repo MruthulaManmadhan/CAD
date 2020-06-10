@@ -1,0 +1,6 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Sentence\bin\Debug\Sentence.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Sentence\bin\Debug\Sentence.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Sentence\bin\Debug\Sentence.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Sentence\obj\Debug\Sentence.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Sentence\obj\Debug\Sentence.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Sentence\obj\Debug\Sentence.pdb

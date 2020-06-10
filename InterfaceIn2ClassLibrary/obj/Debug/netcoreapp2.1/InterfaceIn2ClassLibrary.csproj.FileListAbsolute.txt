@@ -1,0 +1,16 @@
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\RectangularAndSphere.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\ShapesAndCircle.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\RectangularAndSphere.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\ShapesAndCircle.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.csproj.CopyComplete
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\InterfaceIn2ClassLibrary.pdb

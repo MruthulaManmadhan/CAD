@@ -1,0 +1,6 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseBySpace\bin\Debug\ReverseBySpace.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseBySpace\bin\Debug\ReverseBySpace.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseBySpace\bin\Debug\ReverseBySpace.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseBySpace\obj\Debug\ReverseBySpace.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseBySpace\obj\Debug\ReverseBySpace.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseBySpace\obj\Debug\ReverseBySpace.pdb

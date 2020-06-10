@@ -1,0 +1,10 @@
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.dll
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\bin\Debug\netcoreapp2.1\ListOperations.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.dll
+C:\Users\Mruthula.Manmadhan\source\repos\ListOperations\ListOperations\obj\Debug\netcoreapp2.1\ListOperations.pdb

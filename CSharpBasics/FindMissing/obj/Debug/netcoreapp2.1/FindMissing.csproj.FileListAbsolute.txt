@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\bin\Debug\netcoreapp2.1\FindMissing.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\bin\Debug\netcoreapp2.1\FindMissing.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\bin\Debug\netcoreapp2.1\FindMissing.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\bin\Debug\netcoreapp2.1\FindMissing.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\bin\Debug\netcoreapp2.1\FindMissing.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\obj\Debug\netcoreapp2.1\FindMissing.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\obj\Debug\netcoreapp2.1\FindMissing.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\obj\Debug\netcoreapp2.1\FindMissing.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\obj\Debug\netcoreapp2.1\FindMissing.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\obj\Debug\netcoreapp2.1\FindMissing.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\FindMissing\obj\Debug\netcoreapp2.1\FindMissing.pdb

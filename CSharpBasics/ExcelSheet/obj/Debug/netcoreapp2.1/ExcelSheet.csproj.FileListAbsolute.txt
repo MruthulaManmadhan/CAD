@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\obj\Debug\netcoreapp2.1\ExcelSheet.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\obj\Debug\netcoreapp2.1\ExcelSheet.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\obj\Debug\netcoreapp2.1\ExcelSheet.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\obj\Debug\netcoreapp2.1\ExcelSheet.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\bin\Debug\netcoreapp2.1\ExcelSheet.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\bin\Debug\netcoreapp2.1\ExcelSheet.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\bin\Debug\netcoreapp2.1\ExcelSheet.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\bin\Debug\netcoreapp2.1\ExcelSheet.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\bin\Debug\netcoreapp2.1\ExcelSheet.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\obj\Debug\netcoreapp2.1\ExcelSheet.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ExcelSheet\obj\Debug\netcoreapp2.1\ExcelSheet.pdb

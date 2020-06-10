@@ -1,0 +1,7 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Linearsearch\bin\Debug\Linearsearch.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Linearsearch\bin\Debug\Linearsearch.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Linearsearch\bin\Debug\Linearsearch.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Linearsearch\obj\Debug\Linearsearch.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Linearsearch\obj\Debug\Linearsearch.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Linearsearch\obj\Debug\Linearsearch.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Linearsearch\obj\Debug\Linearsearch.pdb

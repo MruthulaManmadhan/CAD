@@ -1,0 +1,8 @@
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\bin\Debug\netcoreapp2.1\ShapesAndCircle.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\bin\Debug\netcoreapp2.1\ShapesAndCircle.dll
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\bin\Debug\netcoreapp2.1\ShapesAndCircle.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\obj\Debug\netcoreapp2.1\ShapesAndCircle.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\obj\Debug\netcoreapp2.1\ShapesAndCircle.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\obj\Debug\netcoreapp2.1\ShapesAndCircle.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\obj\Debug\netcoreapp2.1\ShapesAndCircle.dll
+C:\Users\Mruthula.Manmadhan\source\repos\ShapesAndCircle\obj\Debug\netcoreapp2.1\ShapesAndCircle.pdb

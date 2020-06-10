@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.1\Laptop.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.1\Laptop.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.1\Laptop.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.1\Laptop.dll
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\bin\Debug\netcoreapp2.1\Laptop.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.1\Laptop.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.1\Laptop.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.1\Laptop.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.1\Laptop.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.1\Laptop.dll
+C:\Users\Mruthula.Manmadhan\source\repos\Laptop\Laptop\obj\Debug\netcoreapp2.1\Laptop.pdb

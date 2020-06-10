@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\bin\Debug\netcoreapp2.1\OOPS1.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\bin\Debug\netcoreapp2.1\OOPS1.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\bin\Debug\netcoreapp2.1\OOPS1.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\bin\Debug\netcoreapp2.1\OOPS1.dll
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\bin\Debug\netcoreapp2.1\OOPS1.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\obj\Debug\netcoreapp2.1\OOPS1.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\obj\Debug\netcoreapp2.1\OOPS1.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\obj\Debug\netcoreapp2.1\OOPS1.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\obj\Debug\netcoreapp2.1\OOPS1.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\obj\Debug\netcoreapp2.1\OOPS1.dll
+C:\Users\Mruthula.Manmadhan\source\repos\OOPS1\OOPS1\obj\Debug\netcoreapp2.1\OOPS1.pdb

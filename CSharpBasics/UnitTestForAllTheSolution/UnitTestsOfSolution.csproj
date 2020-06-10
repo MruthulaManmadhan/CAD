@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.10.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\2ndLargestNumber\2ndLargestNumber.csproj" />
+    <ProjectReference Include="..\BubbleSort\BubbleSort.csproj" />
+    <ProjectReference Include="..\ExcelSheet\ExcelSheet.csproj" />
+    <ProjectReference Include="..\FindMissing\FindMissing.csproj" />
+    <ProjectReference Include="..\ForLoop\ForLoop.csproj" />
+    <ProjectReference Include="..\Power\Power.csproj" />
+    <ProjectReference Include="..\ReverseArray\ReverseArray.csproj" />
+    <ProjectReference Include="..\SelectionSort\SelectionSort.csproj" />
+    <ProjectReference Include="..\SquareRoot\SquareRoot.csproj" />
+    <ProjectReference Include="..\ToStringForAnArray\ToStringForAnArray.csproj" />
+  </ItemGroup>
+
+</Project>

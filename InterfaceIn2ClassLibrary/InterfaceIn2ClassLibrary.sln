@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerimeterOfShapes", "PerimeterOfShapes.csproj", "{78AD42DB-6CA6-4D1D-895B-3DC26E5DA579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesAndCircle", "..\ShapesAndCircle\ShapesAndCircle.csproj", "{0CB3A42C-3138-491F-A021-8D323AC3EB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangularAndSphere", "..\RectangularAndSphere\RectangularAndSphere.csproj", "{47ADB6AC-221F-4181-BB0D-874A47726AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78AD42DB-6CA6-4D1D-895B-3DC26E5DA579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78AD42DB-6CA6-4D1D-895B-3DC26E5DA579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78AD42DB-6CA6-4D1D-895B-3DC26E5DA579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78AD42DB-6CA6-4D1D-895B-3DC26E5DA579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB3A42C-3138-491F-A021-8D323AC3EB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB3A42C-3138-491F-A021-8D323AC3EB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB3A42C-3138-491F-A021-8D323AC3EB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB3A42C-3138-491F-A021-8D323AC3EB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47ADB6AC-221F-4181-BB0D-874A47726AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ADB6AC-221F-4181-BB0D-874A47726AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ADB6AC-221F-4181-BB0D-874A47726AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ADB6AC-221F-4181-BB0D-874A47726AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3F1313-BBFF-4931-BFC9-EABE7C7283B5}
+	EndGlobalSection
+EndGlobal

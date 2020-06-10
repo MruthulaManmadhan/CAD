@@ -1,0 +1,10 @@
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\obj\Debug\netcoreapp2.1\StaticSample.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\obj\Debug\netcoreapp2.1\StaticSample.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\obj\Debug\netcoreapp2.1\StaticSample.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\bin\Debug\netcoreapp2.1\StaticSample.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\bin\Debug\netcoreapp2.1\StaticSample.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\bin\Debug\netcoreapp2.1\StaticSample.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\bin\Debug\netcoreapp2.1\StaticSample.dll
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\bin\Debug\netcoreapp2.1\StaticSample.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\obj\Debug\netcoreapp2.1\StaticSample.dll
+C:\Users\Mruthula.Manmadhan\source\repos\StaticSample\StaticSample\obj\Debug\netcoreapp2.1\StaticSample.pdb

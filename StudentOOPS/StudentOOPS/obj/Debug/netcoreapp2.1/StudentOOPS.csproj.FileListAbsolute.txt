@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\obj\Debug\netcoreapp2.1\StudentOOPS.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\obj\Debug\netcoreapp2.1\StudentOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\obj\Debug\netcoreapp2.1\StudentOOPS.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\obj\Debug\netcoreapp2.1\StudentOOPS.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\bin\Debug\netcoreapp2.1\StudentOOPS.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\bin\Debug\netcoreapp2.1\StudentOOPS.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\bin\Debug\netcoreapp2.1\StudentOOPS.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\bin\Debug\netcoreapp2.1\StudentOOPS.dll
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\bin\Debug\netcoreapp2.1\StudentOOPS.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\obj\Debug\netcoreapp2.1\StudentOOPS.dll
+C:\Users\Mruthula.Manmadhan\source\repos\StudentOOPS\StudentOOPS\obj\Debug\netcoreapp2.1\StudentOOPS.pdb

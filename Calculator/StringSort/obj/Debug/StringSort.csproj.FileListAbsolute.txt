@@ -1,0 +1,6 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\StringSort\bin\Debug\StringSort.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\StringSort\bin\Debug\StringSort.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\StringSort\bin\Debug\StringSort.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\StringSort\obj\Debug\StringSort.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\StringSort\obj\Debug\StringSort.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\StringSort\obj\Debug\StringSort.pdb

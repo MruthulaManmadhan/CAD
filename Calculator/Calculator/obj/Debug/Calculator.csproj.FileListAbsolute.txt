@@ -1,0 +1,6 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mruthula.Manmadhan\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb

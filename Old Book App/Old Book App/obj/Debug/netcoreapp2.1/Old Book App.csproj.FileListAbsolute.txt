@@ -1,0 +1,8 @@
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\bin\Debug\netcoreapp2.1\OldBook.Data.dll
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\obj\Debug\netcoreapp2.1\Old Book App.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\obj\Debug\netcoreapp2.1\Old Book App.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\obj\Debug\netcoreapp2.1\Old Book App.RazorAssemblyInfo.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\obj\Debug\netcoreapp2.1\Old Book App.RazorAssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\obj\Debug\netcoreapp2.1\Old Book App.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\obj\Debug\netcoreapp2.1\Old Book App.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\Old Book App\Old Book App\obj\Debug\netcoreapp2.1\Old Book App.RazorTargetAssemblyInfo.cache

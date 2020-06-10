@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\bin\Debug\netcoreapp2.1\2ndLargestNumber.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\bin\Debug\netcoreapp2.1\2ndLargestNumber.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\bin\Debug\netcoreapp2.1\2ndLargestNumber.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\bin\Debug\netcoreapp2.1\2ndLargestNumber.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\bin\Debug\netcoreapp2.1\2ndLargestNumber.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\obj\Debug\netcoreapp2.1\2ndLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\obj\Debug\netcoreapp2.1\2ndLargestNumber.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\obj\Debug\netcoreapp2.1\2ndLargestNumber.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\obj\Debug\netcoreapp2.1\2ndLargestNumber.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\obj\Debug\netcoreapp2.1\2ndLargestNumber.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\2ndLargestNumber\obj\Debug\netcoreapp2.1\2ndLargestNumber.csprojAssemblyReference.cache

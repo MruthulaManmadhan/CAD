@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\bin\Debug\netcoreapp2.1\ReverseArray.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\ReverseArray\obj\Debug\netcoreapp2.1\ReverseArray.csprojAssemblyReference.cache

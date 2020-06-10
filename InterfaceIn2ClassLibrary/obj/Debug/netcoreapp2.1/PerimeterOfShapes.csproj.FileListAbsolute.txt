@@ -1,0 +1,16 @@
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\PerimeterOfShapes.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\PerimeterOfShapes.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\PerimeterOfShapes.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\PerimeterOfShapes.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\PerimeterOfShapes.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\RectangularAndSphere.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\ShapesAndCircle.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\RectangularAndSphere.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\bin\Debug\netcoreapp2.1\ShapesAndCircle.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\PerimeterOfShapes.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\PerimeterOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\PerimeterOfShapes.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\PerimeterOfShapes.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\PerimeterOfShapes.csproj.CopyComplete
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\PerimeterOfShapes.dll
+C:\Users\Mruthula.Manmadhan\source\repos\InterfaceIn2ClassLibrary\obj\Debug\netcoreapp2.1\PerimeterOfShapes.pdb

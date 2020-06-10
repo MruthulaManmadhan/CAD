@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{3514A04B-6ED2-4182-B3D9-5627C3DCE029}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OldBook.Data", "OldBook.Data", "{DE852346-26B0-4AEA-887F-7F81E3BF9985}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{A0B6C426-F75C-425C-B9DA-2EAB9AD2B21E}"
+	ProjectSection(SolutionItems) = preProject
+		Book.cs = Book.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3514A04B-6ED2-4182-B3D9-5627C3DCE029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3514A04B-6ED2-4182-B3D9-5627C3DCE029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3514A04B-6ED2-4182-B3D9-5627C3DCE029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3514A04B-6ED2-4182-B3D9-5627C3DCE029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A0B6C426-F75C-425C-B9DA-2EAB9AD2B21E} = {DE852346-26B0-4AEA-887F-7F81E3BF9985}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A58293D-713F-4098-A186-AB7CF1EF936E}
+	EndGlobalSection
+EndGlobal

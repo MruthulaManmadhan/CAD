@@ -1,0 +1,7 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Power\bin\Debug\Power.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Power\bin\Debug\Power.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Power\bin\Debug\Power.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Power\obj\Debug\Power.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Power\obj\Debug\Power.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\Power\obj\Debug\Power.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\bin\Debug\EFSample.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\bin\Debug\EFSample.exe
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\bin\Debug\EFSample.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\bin\Debug\EntityFramework.dll
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\bin\Debug\EntityFramework.xml
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\obj\Debug\EFSample.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\obj\Debug\EFSample.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\obj\Debug\EFSample.csproj.CopyComplete
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\obj\Debug\EFSample.exe
+C:\Users\Mruthula.Manmadhan\source\repos\EFSample\EFSample\obj\Debug\EFSample.pdb

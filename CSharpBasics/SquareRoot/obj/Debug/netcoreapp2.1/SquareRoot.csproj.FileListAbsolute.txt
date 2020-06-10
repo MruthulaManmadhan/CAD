@@ -1,0 +1,11 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.deps.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.runtimeconfig.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.runtimeconfig.dev.json
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\bin\Debug\netcoreapp2.1\SquareRoot.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.csprojAssemblyReference.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.AssemblyInfo.cs
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.dll
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\SquareRoot\obj\Debug\netcoreapp2.1\SquareRoot.pdb

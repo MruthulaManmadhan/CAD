@@ -1,0 +1,7 @@
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\Mruthula.Manmadhan\source\repos\CSharpBasics\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
